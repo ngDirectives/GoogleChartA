@@ -1,0 +1,20 @@
+{
+  "name": "GoogleChartA",
+  "description": "GoogleChart",
+  "main": "ng-google-chart.js",
+  "keywords": [
+    "googlechart"
+  ],
+  "authors": [
+    "Vikas"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
